@@ -36,7 +36,6 @@ def meus_func(nome_depto, depto, func, funcXdepto):
     else:
         return depto_inex
 
-
 def meu_depto(nome_func, depto, func, funcXdepto):
     if nome_func in func:
         cont = 0
