@@ -3,7 +3,7 @@
 Exercícios realizados para o curso de Desenvolvedores de softwares (DEVs) – Nível 1.
 O curso foi ministrado no formato EaD, com atividades síncronas e assíncronas. 
 
-# Programa do Curso (180 horas): 
+<h3> Programa do Curso </h3>
 
 INTRODUÇÃO À COMPUTAÇÃO [30 horas]
 Aspectos históricos e introdução à computação 
